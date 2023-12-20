@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atiq Ur Rehman || Software Engimeer || Mobile Application Developer
-- 👀 I’m interested in React Native / Flutter App
-- 🌱 I’m currently learning Flutter App
+- 👀 I’m interested in React Native
+- 🌱 I’m currently working on React Native
 - 💞️ I’m looking to collaborate on many projects of React Native Apps 
 - 📫 How to reach me [
 LinkedIn : https://www.linkedin.com/in/atiq-ur-rehman-86289b1b4/

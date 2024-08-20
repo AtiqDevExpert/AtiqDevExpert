@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Atiq Ur Rehman || Software Engimeer || Mobile Application Developer
-- 👀 I’m interested in React Native
-- 🌱 I’m currently working on React Native
+- 👋 Hi, I’m @Atiq Ur Rehman || Software Engineer || Mobile Application Developer
+- 👀 I’m interested in React Native & Node js
+- 🌱 I’m currently working on React Native with Node Js
 - 💞️ I’m looking to collaborate on many projects of React Native Apps 
 - 📫 How to reach me [
 LinkedIn : https://www.linkedin.com/in/atiq-ur-rehman-86289b1b4/
